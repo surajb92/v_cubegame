@@ -1,0 +1,4 @@
+/home/suraj/[Coding]/vulkan/CubeGame/build/CMakeFiles/cubeGame.dir
+/home/suraj/[Coding]/vulkan/CubeGame/build/CMakeFiles/Shaders.dir
+/home/suraj/[Coding]/vulkan/CubeGame/build/CMakeFiles/edit_cache.dir
+/home/suraj/[Coding]/vulkan/CubeGame/build/CMakeFiles/rebuild_cache.dir

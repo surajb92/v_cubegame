@@ -1,0 +1,77 @@
+[
+{
+  "directory": "/home/suraj/[Coding]/vulkan/CubeGame/build",
+  "command": "/usr/bin/g++ -I/home/suraj/[Coding]/vulkan/CubeGame/external -I/home/suraj/[Coding]/vulkan/CubeGame/src -I/home/suraj/[Coding]/vulkan/CubeGame/external/tinyobjloader -g -o CMakeFiles/cubeGame.dir/src/CvkBuffer.cpp.o -c /home/suraj/[Coding]/vulkan/CubeGame/src/CvkBuffer.cpp",
+  "file": "/home/suraj/[Coding]/vulkan/CubeGame/src/CvkBuffer.cpp"
+},
+{
+  "directory": "/home/suraj/[Coding]/vulkan/CubeGame/build",
+  "command": "/usr/bin/g++ -I/home/suraj/[Coding]/vulkan/CubeGame/external -I/home/suraj/[Coding]/vulkan/CubeGame/src -I/home/suraj/[Coding]/vulkan/CubeGame/external/tinyobjloader -g -o CMakeFiles/cubeGame.dir/src/CvkCamera.cpp.o -c /home/suraj/[Coding]/vulkan/CubeGame/src/CvkCamera.cpp",
+  "file": "/home/suraj/[Coding]/vulkan/CubeGame/src/CvkCamera.cpp"
+},
+{
+  "directory": "/home/suraj/[Coding]/vulkan/CubeGame/build",
+  "command": "/usr/bin/g++ -I/home/suraj/[Coding]/vulkan/CubeGame/external -I/home/suraj/[Coding]/vulkan/CubeGame/src -I/home/suraj/[Coding]/vulkan/CubeGame/external/tinyobjloader -g -o CMakeFiles/cubeGame.dir/src/CvkDescriptors.cpp.o -c /home/suraj/[Coding]/vulkan/CubeGame/src/CvkDescriptors.cpp",
+  "file": "/home/suraj/[Coding]/vulkan/CubeGame/src/CvkDescriptors.cpp"
+},
+{
+  "directory": "/home/suraj/[Coding]/vulkan/CubeGame/build",
+  "command": "/usr/bin/g++ -I/home/suraj/[Coding]/vulkan/CubeGame/external -I/home/suraj/[Coding]/vulkan/CubeGame/src -I/home/suraj/[Coding]/vulkan/CubeGame/external/tinyobjloader -g -o CMakeFiles/cubeGame.dir/src/CvkDevice.cpp.o -c /home/suraj/[Coding]/vulkan/CubeGame/src/CvkDevice.cpp",
+  "file": "/home/suraj/[Coding]/vulkan/CubeGame/src/CvkDevice.cpp"
+},
+{
+  "directory": "/home/suraj/[Coding]/vulkan/CubeGame/build",
+  "command": "/usr/bin/g++ -I/home/suraj/[Coding]/vulkan/CubeGame/external -I/home/suraj/[Coding]/vulkan/CubeGame/src -I/home/suraj/[Coding]/vulkan/CubeGame/external/tinyobjloader -g -o CMakeFiles/cubeGame.dir/src/CvkGameObject.cpp.o -c /home/suraj/[Coding]/vulkan/CubeGame/src/CvkGameObject.cpp",
+  "file": "/home/suraj/[Coding]/vulkan/CubeGame/src/CvkGameObject.cpp"
+},
+{
+  "directory": "/home/suraj/[Coding]/vulkan/CubeGame/build",
+  "command": "/usr/bin/g++ -I/home/suraj/[Coding]/vulkan/CubeGame/external -I/home/suraj/[Coding]/vulkan/CubeGame/src -I/home/suraj/[Coding]/vulkan/CubeGame/external/tinyobjloader -g -o CMakeFiles/cubeGame.dir/src/CvkModel.cpp.o -c /home/suraj/[Coding]/vulkan/CubeGame/src/CvkModel.cpp",
+  "file": "/home/suraj/[Coding]/vulkan/CubeGame/src/CvkModel.cpp"
+},
+{
+  "directory": "/home/suraj/[Coding]/vulkan/CubeGame/build",
+  "command": "/usr/bin/g++ -I/home/suraj/[Coding]/vulkan/CubeGame/external -I/home/suraj/[Coding]/vulkan/CubeGame/src -I/home/suraj/[Coding]/vulkan/CubeGame/external/tinyobjloader -g -o CMakeFiles/cubeGame.dir/src/CvkPipeline.cpp.o -c /home/suraj/[Coding]/vulkan/CubeGame/src/CvkPipeline.cpp",
+  "file": "/home/suraj/[Coding]/vulkan/CubeGame/src/CvkPipeline.cpp"
+},
+{
+  "directory": "/home/suraj/[Coding]/vulkan/CubeGame/build",
+  "command": "/usr/bin/g++ -I/home/suraj/[Coding]/vulkan/CubeGame/external -I/home/suraj/[Coding]/vulkan/CubeGame/src -I/home/suraj/[Coding]/vulkan/CubeGame/external/tinyobjloader -g -o CMakeFiles/cubeGame.dir/src/CvkRenderer.cpp.o -c /home/suraj/[Coding]/vulkan/CubeGame/src/CvkRenderer.cpp",
+  "file": "/home/suraj/[Coding]/vulkan/CubeGame/src/CvkRenderer.cpp"
+},
+{
+  "directory": "/home/suraj/[Coding]/vulkan/CubeGame/build",
+  "command": "/usr/bin/g++ -I/home/suraj/[Coding]/vulkan/CubeGame/external -I/home/suraj/[Coding]/vulkan/CubeGame/src -I/home/suraj/[Coding]/vulkan/CubeGame/external/tinyobjloader -g -o CMakeFiles/cubeGame.dir/src/CvkSwapchain.cpp.o -c /home/suraj/[Coding]/vulkan/CubeGame/src/CvkSwapchain.cpp",
+  "file": "/home/suraj/[Coding]/vulkan/CubeGame/src/CvkSwapchain.cpp"
+},
+{
+  "directory": "/home/suraj/[Coding]/vulkan/CubeGame/build",
+  "command": "/usr/bin/g++ -I/home/suraj/[Coding]/vulkan/CubeGame/external -I/home/suraj/[Coding]/vulkan/CubeGame/src -I/home/suraj/[Coding]/vulkan/CubeGame/external/tinyobjloader -g -o CMakeFiles/cubeGame.dir/src/CvkWindow.cpp.o -c /home/suraj/[Coding]/vulkan/CubeGame/src/CvkWindow.cpp",
+  "file": "/home/suraj/[Coding]/vulkan/CubeGame/src/CvkWindow.cpp"
+},
+{
+  "directory": "/home/suraj/[Coding]/vulkan/CubeGame/build",
+  "command": "/usr/bin/g++ -I/home/suraj/[Coding]/vulkan/CubeGame/external -I/home/suraj/[Coding]/vulkan/CubeGame/src -I/home/suraj/[Coding]/vulkan/CubeGame/external/tinyobjloader -g -o CMakeFiles/cubeGame.dir/src/KeyBoardMovementController.cpp.o -c /home/suraj/[Coding]/vulkan/CubeGame/src/KeyBoardMovementController.cpp",
+  "file": "/home/suraj/[Coding]/vulkan/CubeGame/src/KeyBoardMovementController.cpp"
+},
+{
+  "directory": "/home/suraj/[Coding]/vulkan/CubeGame/build",
+  "command": "/usr/bin/g++ -I/home/suraj/[Coding]/vulkan/CubeGame/external -I/home/suraj/[Coding]/vulkan/CubeGame/src -I/home/suraj/[Coding]/vulkan/CubeGame/external/tinyobjloader -g -o CMakeFiles/cubeGame.dir/src/MouseController.cpp.o -c /home/suraj/[Coding]/vulkan/CubeGame/src/MouseController.cpp",
+  "file": "/home/suraj/[Coding]/vulkan/CubeGame/src/MouseController.cpp"
+},
+{
+  "directory": "/home/suraj/[Coding]/vulkan/CubeGame/build",
+  "command": "/usr/bin/g++ -I/home/suraj/[Coding]/vulkan/CubeGame/external -I/home/suraj/[Coding]/vulkan/CubeGame/src -I/home/suraj/[Coding]/vulkan/CubeGame/external/tinyobjloader -g -o CMakeFiles/cubeGame.dir/src/MainApp.cpp.o -c /home/suraj/[Coding]/vulkan/CubeGame/src/MainApp.cpp",
+  "file": "/home/suraj/[Coding]/vulkan/CubeGame/src/MainApp.cpp"
+},
+{
+  "directory": "/home/suraj/[Coding]/vulkan/CubeGame/build",
+  "command": "/usr/bin/g++ -I/home/suraj/[Coding]/vulkan/CubeGame/external -I/home/suraj/[Coding]/vulkan/CubeGame/src -I/home/suraj/[Coding]/vulkan/CubeGame/external/tinyobjloader -g -o CMakeFiles/cubeGame.dir/src/main.cpp.o -c /home/suraj/[Coding]/vulkan/CubeGame/src/main.cpp",
+  "file": "/home/suraj/[Coding]/vulkan/CubeGame/src/main.cpp"
+},
+{
+  "directory": "/home/suraj/[Coding]/vulkan/CubeGame/build",
+  "command": "/usr/bin/g++ -I/home/suraj/[Coding]/vulkan/CubeGame/external -I/home/suraj/[Coding]/vulkan/CubeGame/src -I/home/suraj/[Coding]/vulkan/CubeGame/external/tinyobjloader -g -o CMakeFiles/cubeGame.dir/src/SimpleRenderSystem.cpp.o -c /home/suraj/[Coding]/vulkan/CubeGame/src/SimpleRenderSystem.cpp",
+  "file": "/home/suraj/[Coding]/vulkan/CubeGame/src/SimpleRenderSystem.cpp"
+}
+]
